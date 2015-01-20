@@ -16,4 +16,4 @@ class Solution:
             result.append(r)
         return result
 
-print Solution().generate(1)
+print Solution().generate(4)
